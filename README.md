@@ -5,16 +5,44 @@
  ![cloud 1](https://user-images.githubusercontent.com/31361652/31910363-1812395e-b7f2-11e7-98b6-4281bf053239.PNG)
 
  # INTRODUCTION 
+## AWS Cloud Project
 
-   * University Name: http://www.sjsu.edu/
+### Description
+This project demonstrates the implementation of AWS services for cloud deployment and management.
 
-   * Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html/)
+### Developer Details
+- **Name:** [Palepu Sathwik Raja]  
+- **GitHub:** [https://github.com/palepu28]  
+- **Modifications:** ## Improved documentation
+                     ## Added setup instructions
+                     ##  Explained AWS services used in detail
+  ## AWS Cloud Project
 
-   * Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
+### Description
+This project demonstrates the use of AWS services for cloud deployment and management.
 
-   * ISA: [Divyanthika Urs](https://www.linkedin.com/in/divyankithaurs/)
-   
-   * Student: [Anuradha Rajashekar](https://www.linkedin.com/in/anu-rajashekar-4b950092/)
+### Technologies Used
+- AWS S3  
+- AWS Lambda  
+- AWS EC2  
+- AWS API Gateway  
+
+### Setup Instructions
+# 1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/AWS-cloud-project.git
+# 2. Deploy AWS Lambda function using the provided script.
+# 3. Configure S3 for file storage.
+# 4. Host the application using AWS EC2.
+
+### Modifications & Contributions
+## Added detailed setup instructions for new users.
+## Updated README with clear explanations of AWS services used.
+## Improved project documentation to make deployment easier.
+# Contributor
+Name: [Palepu Sathwik Raja]
+GitHub: [https://github.com/palepu28]
+
    
    # PROJECT IDEA
 
